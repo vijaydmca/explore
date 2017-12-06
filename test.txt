@@ -1,5 +1,7 @@
 welcome to GIT account.
 
 welocme to my git account.
+Test your git skills.
+Awesome!!
 
 Adding new line 
